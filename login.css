@@ -1,0 +1,84 @@
+.grey{
+	color: #232830;
+}
+
+.bg{
+	background-color: #323740;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+
+.text{
+	margin-top: 30px;
+	margin-left: 20px;
+
+	font-family: verdana;
+	font-size: 18px;
+}
+
+.area{
+	margin-left: 10px;
+}
+
+.submit{
+	float: left;
+	margin-left: 40%;
+	margin-top: 50px;
+	color: white;
+	background-color: #1C64DD;
+	border: solid #1C64DD 10px;
+	font-size: 18px;
+}
+
+
+body{
+	background-color: #232830;
+}
+
+
+#x_titan{
+	color: #1C64DD;
+	font-family: arial;
+	margin-top: 60px;
+	margin-left: 400px;
+	font-size: 45px;
+}
+
+
+#header_title{
+	color: white;
+	font-family: arial;
+	margin-top: 80px;
+	margin-left: 20px;
+}
+
+/***************************************/
+
+#form{
+	float: left;
+	margin-left: 36%;
+	margin-top: 3%;
+	width: 340px;
+	height: 280px;
+	border: solid white 1px;
+	background-color: #323740;
+}
+
+#email{
+	margin-top: 65px;
+	
+}
+
+#email_area{
+	margin-left: 45px;
+}
+
+
+
